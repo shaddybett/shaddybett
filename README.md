@@ -1,6 +1,3 @@
-Certainly! Here's the complete GitHub profile README template with all the sections:
-
-```markdown
 <!-- Your Name -->
 # Shadrack Bett
 
@@ -46,6 +43,3 @@ Certainly! Here's the complete GitHub profile README template with all the secti
 <!-- Footer -->
 ## Let's Connect
 Feel free to connect with me on LinkedIn or explore my repositories on GitHub. If you have any questions or just want to chat, don't hesitate to reach out.
-```
-
-Remember to replace `your-github-username` with your actual GitHub username, and customize the sections as needed. Once you've made these adjustments, you can create a new README.md file in your GitHub profile repository with this content. GitHub will automatically render it on your profile page, showcasing your stats, skills, recent activity, and more.
