@@ -6,15 +6,15 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark)
+![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true&count_private=true&theme=dark)
 
 <!-- Top Languages -->
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=compact&theme=dark)
 
 <!-- GitHub Streak -->
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaddybett&theme=dark)
 
 <!-- Skills -->
 ## Skills
@@ -35,10 +35,10 @@
 
 <!-- GitHub Trophies -->
 ## GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shaddybett&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=shaddybett)
 
 <!-- Footer -->
 ## Let's Connect
