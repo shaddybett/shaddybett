@@ -1,12 +1,15 @@
 # Shadrack Bett
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20for%20Over%201%20Year%20;%20Improving%20Code%20Functionality;%20Embracing%20Unpredictability!&font=Fira%20Code&center=true&width=700&height=45&color=800080&vCenter=true&pause=1000&size=25" />
+</p>
 
-Welcome to the Coding and Design Odyssey of Shadrack Bett! 🚀
+Welcome to the Coding and Design Odyssey of Shadrack Bett! 
 
-Greetings! I'm Shadrack Bett, a dynamic developer and creative designer committed to shaping exceptional digital experiences.
+Hello, I'm Shadrack Bett, a dynamic developer committed to shaping exceptional digital experiences.
 
-🚀 Currently, my mission is to elevate my coding and design prowess, sculpting a portfolio that stands as a testament to my dedication and ingenuity.
+Currently, my mission is to elevate my coding and design prowess, sculpting a portfolio that stands as a testament to my dedication and passion for web development.
 
-:handshake: I'm eagerly seeking collaborations on innovative coding and design projects, be it with forward-thinking companies or talented individuals. Let's turn concepts into reality!
+:handshake: I'm eagerly seeking collaborations on innovative coding and design projects, be it with forward-thinking companies or talented individuals. Turning concepts into reality!
 
 :sos: On the lookout for an internship opportunity to deploy my analytical skills in a vibrant and collaborative setting. Ready to contribute, ready to learn, and ready to make an impact.
 
@@ -16,7 +19,9 @@ Greetings! I'm Shadrack Bett, a dynamic developer and creative designer committe
 
 Let's connect and co-create something extraordinary!
 
-[LinkedIn](https://www.linkedin.com/in/shadrack-kipkorir-a8072728b/)
+[LinkedIn](https://www.linkedin.com/in/shadrack-bett-a8072728b)
+
+
 
 ## GitHub Stats
 ![Shadrack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true&count_private=true&theme=dark)
@@ -28,8 +33,8 @@ Let's connect and co-create something extraordinary!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaddybett&theme=dark)
 
 ## Skills That Power My Code
-- Frontend Wizardry: HTML, CSS, JavaScript, React
-- Backend Sorcery: Python (Flask)
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Python (Flask)
 - Data Alchemy: Python (Pandas, NumPy, Matplotlib)
 - Database Mastery: SQL, MongoDB
 - Version Control Conductor: Git, GitHub
