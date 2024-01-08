@@ -1,5 +1,8 @@
 <!-- Your Name -->
 # Shadrack Bett
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20for%20Over%201%20Year%20;%20Improving%20Code%20Functionality;%20Embracing%20Unpredictability!&font=Fira%20Code&center=true&width=700&height=45&color=800080&vCenter=true&pause=1000&size=25" />
+</p>
 
 <!-- LinkedIn Badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/shadrack-kipkorir-a8072728b/)
