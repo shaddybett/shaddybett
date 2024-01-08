@@ -3,6 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20for%20Over%201%20Year%20;%20Improving%20Code%20Functionality;%20Embracing%20Unpredictability!&font=Fira%20Code&center=true&width=700&height=45&color=800080&vCenter=true&pause=1000&size=25" />
 </p>
+<h3 align="center">Hey there, I'm <a href="https://github.com/mwangiowen">Owen Smith</a></h3>
+:microscope: Currently, I'm focused on developing coding and design skills to build a robust portfolio.<br>
+:handshake: Open to collaboration on exciting coding and design projects with companies or individuals.<br>
+:sos: Seeking help with staying consistently motivated and overcoming coding or design challenges.<br>
+:books: Actively learning and keeping up with the latest coding and design trends, as well as exploring new technologies.<br>
+:speech_balloon: Feel free to ask me about anything related to coding, design, or project insights.<br>
+:zap: Fun fact: I'm lazy but leverage intelligence to maintain a clean and efficient workflow.
 
 <!-- LinkedIn Badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/shadrack-kipkorir-a8072728b/)
