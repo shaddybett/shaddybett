@@ -1,6 +1,6 @@
 # Hi, I'm Shadrack Bett 👋
 
-Full-Stack Software Developer based in Kenya 🇰🇪
+Full-Stack Software Developer based in Kenya
 I build scalable web and mobile applications using modern technologies like **React, Python, and cloud infrastructure**.
 
 Currently working on mobile and backend systems while continuing to expand my knowledge in **system design and DevOps**.
