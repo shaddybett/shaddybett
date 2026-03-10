@@ -19,10 +19,11 @@ Linkedin: https://www.linkedin.com/in/sbett
 Portfolio: https://kipkorir.vercel.app/
 
 ---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true" />
-  <img src="https://streak-stats.demolab.com/?user=shaddybett" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=compact" />
-</p>
+![Shadrack's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaddybett)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=compact)
