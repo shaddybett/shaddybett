@@ -24,3 +24,5 @@ Portfolio: https://kipkorir.vercel.app/
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shaddybett)
 
+![Profile Views](https://komarev.com/ghpvc/?username=shaddybett)
+
