@@ -13,25 +13,6 @@ I build scalable web and mobile applications using modern technologies.
 **DevOps:** Docker · GitHub Actions · AWS · Vercel
 
 ---
-
-## 📌 Featured Projects
-
-### Mental Wellness Platform
-
-Secure consultation booking system for mental health services.
-
-**Tech:** React · Django/Flask
-🔗 https://stawi-frontend.vercel.app
-
----
-
-### 💳 Banking Field Agent System
-
-Cross-platform mobile application for financial field agents.
-
-**Tech:** Ionic · Capacitor · NestJS
-
----
 ## Connect With Me
 
 Linkedin: https://www.linkedin.com/in/sbett
