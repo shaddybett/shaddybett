@@ -38,11 +38,6 @@ Linkedin: https://www.linkedin.com/in/sbett
 Portfolio: https://kipkorir.vercel.app/
 
 ---
-## 🌱 Currently Learning
-
-Flutter mobile development  
-System design fundamentals  
-Advanced backend architecture
 ## 📊 GitHub Stats
 
 <p align="center">
