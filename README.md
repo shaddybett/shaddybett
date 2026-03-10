@@ -22,11 +22,9 @@ Portfolio: https://kipkorir.vercel.app/
 
 ## 📊 GitHub Stats
 
-![Shadrack's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shaddybett)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=compact&langs_count=8&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=donut)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaddybett)
 
