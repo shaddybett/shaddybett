@@ -32,11 +32,11 @@ Cross-platform mobile application for financial field agents.
 **Tech:** Ionic · Capacitor · NestJS
 
 ---
+## Connect With Me
 
-## 🔗 Connect With Me
+Linkedin: https://www.linkedin.com/in/sbett
+Portfolio: https://kipkorir.vercel.app/
 
-LinkedIn: https://www.linkedin.com/in/sbett
-Portfolio: https://kipkorir.vercel.app
 ---
 ## 🌱 Currently Learning
 
