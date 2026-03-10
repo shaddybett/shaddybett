@@ -16,15 +16,6 @@ I build scalable web and mobile applications using modern technologies.
 
 ## 📌 Featured Projects
 
-### Car Marketplace
-
-Full-stack platform for car listings with secure payments.
-
-**Tech:** React · Flask · Paystack API
-🔗 https://motorgram.vercel.app
-
----
-
 ### Mental Wellness Platform
 
 Secure consultation booking system for mental health services.
