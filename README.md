@@ -46,3 +46,16 @@ Cross-platform mobile application for financial field agents.
 
 LinkedIn: https://www.linkedin.com/in/sbett
 Portfolio: https://kipkorir.vercel.app
+---
+## 🌱 Currently Learning
+
+Flutter mobile development  
+System design fundamentals  
+Advanced backend architecture
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaddybett&show_icons=true" />
+  <img src="https://streak-stats.demolab.com/?user=shaddybett" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddybett&layout=compact" />
+</p>
