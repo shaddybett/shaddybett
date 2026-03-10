@@ -16,7 +16,7 @@ I build scalable web and mobile applications using modern technologies.
 
 ## 📌 Featured Projects
 
-### 🚗 Car Marketplace
+### Car Marketplace
 
 Full-stack platform for car listings with secure payments.
 
@@ -25,7 +25,7 @@ Full-stack platform for car listings with secure payments.
 
 ---
 
-### 🧠 Mental Wellness Platform
+### Mental Wellness Platform
 
 Secure consultation booking system for mental health services.
 
